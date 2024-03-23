@@ -5,7 +5,6 @@
 node_modules/
 frontend/node_modules/
 # Frontend1/.git
-frontend
 /.pnp
 .pnp.js
 
